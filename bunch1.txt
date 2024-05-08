@@ -1,1 +1,1 @@
-type some text here !
+type some text here and do not forget to add a full stop!
